@@ -473,7 +473,7 @@ body {
 }
 @media (max-width: 991.98px) {
   .item-programs__image {
-    padding-bottom: 66%;
+    padding-bottom: 75%;
     width: 100%;
   }
 }

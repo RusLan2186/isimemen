@@ -23,7 +23,7 @@ headerLinks.forEach((el) => {
 
 const swiper = new Swiper('.review__slider', {
    speed: 800,
-
+   spaceBetween: 40,
    autowidth: true,
    // nested: true,
    pagination: {
